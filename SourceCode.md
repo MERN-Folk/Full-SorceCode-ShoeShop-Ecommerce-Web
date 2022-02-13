@@ -10,7 +10,7 @@
 
 2.  <!-- Admin Dashboard File (Static File) without Backend -->
 
-    # https://github.com/irenemmassy/frontend-shoeshop
+    # https://github.com/irenemmassy/admin-dashboard-shoeshop
 
     <!-- LIVE ADMIN -->
 
